@@ -52,3 +52,14 @@ const myFunction = function(){
 }
 
 console.log(typeof myFunction);
+
+
+// ********************** Types Of Memories ******************
+
+/*
+
+1. Stack  (Primitive)
+2. Heap   (Non-Primitive)
+
+*/
+
